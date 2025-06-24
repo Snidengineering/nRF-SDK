@@ -1,0 +1,3 @@
+[submodule "1_Fundamentals/ncs-fund"]
+	path = 1_Fundamentals/ncs-fund
+	url = https://github.com/NordicDeveloperAcademy/ncs-fund.git
